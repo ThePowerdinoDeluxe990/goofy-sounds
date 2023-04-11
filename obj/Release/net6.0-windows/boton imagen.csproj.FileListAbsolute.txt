@@ -1,0 +1,18 @@
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\bin\Release\net6.0-windows\boton imagen.exe
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\bin\Release\net6.0-windows\boton imagen.deps.json
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\bin\Release\net6.0-windows\boton imagen.runtimeconfig.json
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\bin\Release\net6.0-windows\boton imagen.dll
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\bin\Release\net6.0-windows\boton imagen.pdb
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton_imagen.soundWindow.resources
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.dll
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\refint\boton imagen.dll
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.pdb
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton imagen.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\ref\boton imagen.dll
+C:\Users\USUARIO\Desktop\visual studio programs\boton imagen\boton imagen\obj\Release\net6.0-windows\boton_imagen.Properties.Resources.resources
